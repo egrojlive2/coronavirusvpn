@@ -1,0 +1,18 @@
+{
+  "data": {
+    "getSmartersProAll": {
+      "__typename": "SmartersProAll",
+      "id": "6f89a48b-f4b7-4ff9-8400-9feb1792bf7e",
+      "basesbpurl": "http://alfatv.lat:2082/api.php",
+      "securityurl": "http://alfatv.lat:2082/dns.php",
+      "clientsbpurl": "http://alfatv.lat:2082/api.php",
+      "config1": "https://smartersapi-android.servep2p.com/?/Android",
+      "config2": "",
+      "config3": "",
+      "config4": "",
+      "config5": "",
+      "createdAt": "2023-12-06T12:23:55.846Z",
+      "updatedAt": "2023-12-06T12:23:55.846Z"
+    }
+  }
+}
