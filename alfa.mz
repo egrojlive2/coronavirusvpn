@@ -4,7 +4,7 @@
       "__typename": "SmartersProAll",
       "id": "6f89a48b-f4b7-4ff9-8400-9feb1792bf7e",
       "basesbpurl": "http://alfatv.lat:2082/api.php",
-      "securityurl": "http://alfatv.lat:2082/dns.php",
+      "securityurl": "https://raw.githubusercontent.com/egrojlive2/coronavirusvpn/refs/heads/main/alfadns.mz",
       "clientsbpurl": "http://alfatv.lat:2082/api.php",
       "config1": "https://smartersapi-android.servep2p.com/?/Android",
       "config2": "",
